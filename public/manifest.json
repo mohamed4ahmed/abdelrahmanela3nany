@@ -1,6 +1,6 @@
 {
   "short_name": "Abdelrahman El3anany",
-  "name": "Abdelrahman El3anany A Medical imaging Doctor",
+  "name": "Abdelrahman El3anany A Accounting and Administrative",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#00bfd5",
+  "background_color": "#c5f5ff"
 }
