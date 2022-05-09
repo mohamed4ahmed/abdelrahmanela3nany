@@ -11,7 +11,7 @@ import "leaflet/dist/leaflet.css";
 import { iconEman } from "./IconMarker";
 import logoImg from "../../assets/img/chan-dung-edit.png";
 const Map = () => {
-  const position = [27.53414, 41.69812];
+  const position = [30.973947, 31.181758];
   const zoom = 5;
   return (
     <div className="map">
@@ -26,13 +26,13 @@ const Map = () => {
               <div className="info__logo">
                 <img src={logoImg} alt="logo" />
               </div>
-              <div className="info__name">Dr - Eman Zaki</div>
+              <div className="info__name">Abdelrahman El3anany</div>
               <div className="info__address">
-                Address: Hail City , Saudi-Arabia
+                Address: Elmahala-Elkoubra city, Gharbia, Egypt
               </div>
             </div>
           </Popup>
-          <Tooltip>Dr Eman Zaki</Tooltip>
+          <Tooltip>Abdelrahman El3anany</Tooltip>
         </Marker>
       </LeafletMap>
     </div>

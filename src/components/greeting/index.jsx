@@ -5,7 +5,7 @@ const Greeting = () => {
     <div className="greeting-wrapper">
       <p>
         {" "}
-        {/* made with{" "}
+        made with{" "}
         <a
           className="mo"
           target="_blank"
@@ -13,7 +13,7 @@ const Greeting = () => {
           href="https://www.mohamedahmed.ml"
         >
           Mohamed Ahmed
-        </a> */}{" "}
+        </a>{" "}
       </p>
     </div>
   );

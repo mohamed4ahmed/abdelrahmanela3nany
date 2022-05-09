@@ -1,6 +1,6 @@
 import React from "react";
-import Avatar from "../../assets/img/avatar.png";
-import Avatar1 from "../../assets/img/chan-dung-edit.png";
+// import Avatar from "../../assets/img/avatar.png";
+// import Avatar1 from "../../assets/img/chan-dung-edit.png";
 import Avatar2 from "../../assets/img/full-nguoi-edit.webp";
 import "./style.css";
 const Greeting = () => {
@@ -17,7 +17,7 @@ const Greeting = () => {
             <a
               rel="noopener noreferrer"
               target="__blank"
-              href="tel:+9660564452979"
+              href="tel:+201002652668"
             >
               Call
             </a>
@@ -26,8 +26,8 @@ const Greeting = () => {
       </div>
       <div className="left-column">
         <img className="avatar" src={Avatar2} alt="Avatar2" />
-        <h5>Dr Eman Zaki</h5>
-        <p>{" Medical Radiology "}</p>
+        <h5>Abdelrahman el3anany</h5>
+        <p>{" Accounting and Administrative "}</p>
       </div>
       <div className="right-column">
         <div className="right-column__preview-shadow">
@@ -36,11 +36,12 @@ const Greeting = () => {
             <div className="corner corner-tr"></div>
             <h3>What I Do?</h3>
             <p style={{ fontSize: "16px" }}>
-              Medical Radiology, interested in abdominal imaging, ultrasound and
-              computed tomography.
+              Seeking to a new challenging position in a field of Accounting and
+              Administrative Works where i can use all my Skills and knowledge
+              and get an extra experience.
             </p>
-            <img className="avatar" src={Avatar} alt="Avatar" />
-            <img className="avatar" src={Avatar1} alt="Avatar1" />
+            {/* <img className="avatar" src={Avatar} alt="Avatar" /> */}
+            {/* <img className="avatar" src={Avatar1} alt="Avatar1" /> */}
 
             <div className="corner corner-br"></div>
             <div className="corner corner-bl"></div>

@@ -136,20 +136,30 @@ const getSocialsIcon = () => {
       {
         id: nextId(),
         alt: "Facebook",
-        link: "https://www.facebook.com/eman.zaki.1610",
+        link: "https://www.facebook.com/abdelrahman.elanany.5",
         src: "https://img.icons8.com/dusk/64/000000/facebook-new--v2.png",
       },
       {
         id: nextId(),
         alt: "Instagram",
-        link: "https://www.instagram.com/eman.zaki.1610",
+        link: "https://instagram.com/abdelrahman.el3nany?igshid=YmMyMTA2M2Y=",
         src: "https://img.icons8.com/clouds/100/000000/instagram-new--v3.png",
       },
-
+      {
+        id: nextId(),
+        alt: "Twitter",
+        link: "https://twitter.com/ael3nany28?t=kCNSzNam_gwaNG-iJKrZEQ&s=09",
+        src: "https://img.icons8.com/clouds/100/000000/twitter.png",
+      },{
+        id: nextId(),
+        alt: "Snapchat",
+        link: "https://www.snapchat.com/add/ael3nany28?share_id=h8hSKkQS5bU&locale=ar-EG",
+        src: "https://img.icons8.com/clouds/100/000000/snapchat.png",
+      },
       {
         id: nextId(),
         alt: "Whatsapp",
-        link: "whatsapp://send?text=welcome&phone=+9660564452979",
+        link: "whatsapp://send?text=welcome&phone=+201009282162",
         src: "https://img.icons8.com/clouds/100/000000/whatsapp.png",
       },
     ],

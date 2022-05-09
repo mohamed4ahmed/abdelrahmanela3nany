@@ -11,20 +11,20 @@ const About = ({ socials }) => {
             <span role="img" aria-label="from">
               🌏
             </span>{" "}
-            From: Elmahala-Elkoubra city,Gharbia, Egypt
+            From: Elmahala-Elkoubra city, Gharbia, Egypt
           </p>
-          <p>
+          {/* <p>
             <span role="img" aria-label="live">
               🌏
             </span>{" "}
             Lives: Gadah city , Saudi Arabia
-          </p>
-          {/* <p>
+          </p> */}
+          <p>
             <span role="img" aria-label="email">
               📨
             </span>{" "}
-            Email: youyaahmed1731993@gmail.com
-          </p> */}
+            Email: abdelrahmanzaki85@gmail.com
+          </p>
           <p>
             <span role="img" aria-label="languages">
               🎓
@@ -35,17 +35,17 @@ const About = ({ socials }) => {
             <span role="img" aria-label="education">
               📕
             </span>{" "}
-            Education: BSc Masters and PhD degree in Imaging , Faculty of Human
-            Medicine Department Radiology, Mansoura University
+            Education: Bachelors degree Faculty of Commerce , Mansoura
+            University
           </p>
           <p>
             <span role="img" aria-label="experience">
               📕
             </span>{" "}
-            Experience: Specializes in diagnosing and treating disease and
-            injury, using medical imaging techniques such as x-rays, computed
-            tomography (CT), magnetic resonance imaging (MRI), nuclear medicine,
-            positron emission tomography (PET), fusion imaging, and ultrasound
+            Experience: Accounting and Administrative, interested in Seeking to
+            a new challenging position in a field of Accounting and
+            Administrative Works where i can use all my Skills and knowledge and
+            get an extra experience. administrative and secretarial.
           </p>
           <hr />
         </div>
