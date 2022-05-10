@@ -8,8 +8,9 @@ import {
 } from "react-leaflet";
 import "./Maps.css";
 import "leaflet/dist/leaflet.css";
-import { iconEman } from "./IconMarker";
+import { iconAbdo } from "./IconMarker";
 import logoImg from "../../assets/img/chan-dung-edit.png";
+
 const Map = () => {
   const position = [30.973947, 31.181758];
   const zoom = 5;
@@ -20,7 +21,7 @@ const Map = () => {
           attribution='&amp;copy <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
-        <Marker position={position} icon={iconEman}>
+        <Marker position={position} icon={iconAbdo}>
           <Popup>
             <div className="info-container">
               <div className="info__logo">

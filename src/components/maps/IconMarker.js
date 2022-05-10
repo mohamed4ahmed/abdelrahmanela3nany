@@ -2,7 +2,7 @@ import L from "leaflet";
 // import iconUrl from "../../../assets/img/logo-web-white.png";
 import iconUrl from "../../assets/img/avatar.webp";
 
-const iconEman = new L.Icon({
+const iconAbdo = new L.Icon({
   iconUrl: iconUrl,
   iconSize: [64, 64],
   iconAnchor: [64, 64],
@@ -11,4 +11,4 @@ const iconEman = new L.Icon({
   shadowAnchor: null,
 });
 
-export { iconEman };
+export { iconAbdo };

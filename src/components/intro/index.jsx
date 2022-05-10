@@ -36,9 +36,8 @@ const Greeting = () => {
             <div className="corner corner-tr"></div>
             <h3>What I Do?</h3>
             <p style={{ fontSize: "16px" }}>
-              Seeking to a new challenging position in a field of Accounting and
-              Administrative Works where i can use all my Skills and knowledge
-              and get an extra experience.
+              Accounting and Administrative Works where i can use all my Skills
+              and knowledge and get an extra experience.
             </p>
             {/* <img className="avatar" src={Avatar} alt="Avatar" /> */}
             {/* <img className="avatar" src={Avatar1} alt="Avatar1" /> */}
